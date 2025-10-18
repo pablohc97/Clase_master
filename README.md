@@ -1,3 +1,3 @@
 # Clase_master
 
-Prueba de cambios
+Prueba de cambios desde la terminal
